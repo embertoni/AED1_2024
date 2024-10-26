@@ -35,7 +35,7 @@ int main(){
                 scanf("%i", &mtx[i][j]);
             }
         }
-        printf("Instancia %d\n", k);
+        printf("Instancia %i\n", k);
         if (validaS(mtx)){
             printf("SIM\n");
         }
