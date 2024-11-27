@@ -1,6 +1,6 @@
 /*
   Enrico Manzolli Bertoni RA: 176259
-  1069.c - Diamonds and Sand
+  1069 - Diamonds and Sand
 */
 
 #include <stdio.h>
