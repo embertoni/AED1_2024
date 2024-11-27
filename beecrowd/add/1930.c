@@ -1,3 +1,8 @@
+/*
+  Enrico Manzolli Bertoni RA: 176259
+  1930 - Eletrical Outlet
+*/
+
 #include <stdio.h>
 
 int main(){
