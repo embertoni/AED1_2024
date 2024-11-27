@@ -1,3 +1,8 @@
+/*
+  Enrico Manzolli Bertoni RA: 176259
+  1259 - Even and Odd
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
