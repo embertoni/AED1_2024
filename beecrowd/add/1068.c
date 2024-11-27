@@ -1,3 +1,8 @@
+/*
+  Enrico Manzolli Bertoni RA: 176259
+  1068 - Parenthesis Balance I
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
