@@ -1,3 +1,8 @@
+/*
+  Enrico Manzolli Bertoni RA: 176259
+  2006 - Identifying Tea
+*/
+
 #include <stdio.h>
 
 int main(){
